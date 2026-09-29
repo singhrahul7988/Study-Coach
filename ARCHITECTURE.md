@@ -59,7 +59,7 @@ A generated message may explain or suggest alternatives, but the saved plan, com
 
 ## 7. Frontend structure
 
-Use a single-viewport landing page, setup form, and short curation transition before the responsive app shell. The shell contains Coach, Today, Study, Library, and Progress. Coach leads to a chat-based Study room; mistake retries take place there. Keep feature screens and their data calls together. Use reusable controls for source citations, task cards, timers, document viewers, question inputs, and status messages. Use neutral white, grey, and black surfaces and labels, accent icons, blue Coach actions, and a blue-and-white curation waveform as recorded in PRD.md.
+Use a single-viewport landing page, setup form, and short curation transition before the responsive app shell. The shell contains Coach, Today, Study, Library, and Progress. Coach leads to a chat-based Study room; mistake retries take place there. Keep feature screens and their data calls together. Use reusable controls for source citations, task cards, timers, document viewers, question inputs, and status messages. Use neutral white, grey, and black surfaces and labels, accent icons, blue Coach actions, and a blue-and-white curation checklist as recorded in PRD.md.
 
 Keep server data on the server and fetch it through typed interfaces. Keep only short-lived interaction state in the browser. Save answer drafts; queue safe offline drafts where possible and clearly show sync status. Meet WCAG 2.2 AA where applicable and test keyboard and small-screen use.
 

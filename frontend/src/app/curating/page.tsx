@@ -102,13 +102,6 @@ export default function CuratingPage() {
         : completedSteps === 2 && libraryUnavailable
           ? "Continuing without Library material"
           : steps[completedSteps].title;
-  const heading = planUnavailable
-    ? "Coach is ready for your question."
-    : completedSteps === steps.length
-      ? "Your starting space is ready."
-      : completedSteps === steps.length - 1
-        ? "Opening your Coach room..."
-        : "Building a plan around you...";
   const classLabel = profile
     ? "Class " + profile.grade + " · " + profile.board
     : "Your study details";
@@ -116,86 +109,111 @@ export default function CuratingPage() {
 
   return (
     <main className="curating-page">
-      <div className="curating-orb" aria-hidden="true" />
       <section
         className="curating-content"
         aria-label="Preparing your Coach session"
       >
-        <div className="curating-brand">
-          <span className="brand-icon">
-            <Image
-              src="/brand/ranjan-sir-portrait.png"
-              alt=""
-              width={1277}
-              height={1231}
-              className="brand-portrait"
-            />
+        <header className="curating-header">
+          <div className="curating-brand">
+            <span className="brand-icon">
+              <Image
+                src="/brand/ranjan-sir-portrait.png"
+                alt=""
+                width={1277}
+                height={1231}
+                className="brand-portrait"
+              />
+            </span>
+            <span>Ranjan Sir</span>
+          </div>
+          <span className="curating-step">Step 2 of 3</span>
+        </header>
+
+        <div className="curating-intro">
+          <span className="curating-eyebrow">
+            Personalising your study space
           </span>
-          <span>Ranjan Sir</span>
-        </div>
-        <span className="curating-step">02 / 03 · Personalising</span>
-        <div className="curating-workflow">
-          <ol className="curating-list" aria-label="Preparation steps">
-            {steps.map(({ title, icon: Icon }, index) => {
-              const isComplete = index < completedSteps;
-              const isActive = index === completedSteps;
-              const visibleTitle =
-                index === 2 && libraryUnavailable
-                  ? "Continuing without Library material"
-                  : index === 3 && planUnavailable
-                    ? "Preparing your Coach room"
-                    : title;
-              return (
-                <li
-                  className={
-                    "curating-item" +
-                    (isComplete ? " is-complete" : "") +
-                    (isActive ? " is-active" : "")
-                  }
-                  key={title}
-                  aria-current={isActive ? "step" : undefined}
-                >
-                  <span className="curating-marker" aria-hidden="true">
-                    {isComplete ? <Check size={15} strokeWidth={3} /> : null}
-                  </span>
-                  <div className="curating-card">
-                    <span className="curating-card-icon" aria-hidden="true">
-                      <Icon size={21} strokeWidth={1.9} />
-                    </span>
-                    <span className="curating-card-title">{visibleTitle}</span>
-                    <span className="curating-card-check" aria-hidden="true">
-                      {isComplete ? <Check size={15} strokeWidth={3} /> : null}
-                    </span>
-                  </div>
-                </li>
-              );
-            })}
-          </ol>
-          <aside className="curating-context" aria-label="Your starting point">
-            <span className="curating-context-icon" aria-hidden="true">
-              <GraduationCap size={19} strokeWidth={1.9} />
-            </span>
-            <span>
-              <strong>{classLabel}</strong>
-              <small>{paceLabel}</small>
-            </span>
-          </aside>
-        </div>
-        <div className="curating-footer">
-          <h1>{heading}</h1>
+          <h1>Getting your Coach ready</h1>
           <p>
-            {planUnavailable
-              ? "You can start with a question and build a plan with Coach."
-              : completedSteps >= 4
-                ? "Your session is ready. Coach will open in a moment."
-                : "We're shaping a session around your choices and study pace."}
+            We&apos;re using your choices to prepare a useful place to start.
+            You can change any suggestion later.
           </p>
-          <small>
-            {planUnavailable
-              ? "Ask Coach to build a plan when you're ready."
-              : "You can adjust your plan with Coach."}
-          </small>
         </div>
+
+        <aside className="curating-context" aria-label="Your starting point">
+          <span className="curating-context-icon" aria-hidden="true">
+            <GraduationCap size={19} strokeWidth={1.9} />
+          </span>
+          <span className="curating-context-copy">
+            <strong>{classLabel}</strong>
+            <small>{paceLabel}</small>
+          </span>
+        </aside>
+
+        <div className="curating-progress">
+          <div className="curating-progress-label">
+            <span>{activeTitle}</span>
+            <span>
+              {completedSteps} of {steps.length}
+            </span>
+          </div>
+          <div
+            className="curating-progress-track"
+            role="progressbar"
+            aria-label="Preparation progress"
+            aria-valuemin={0}
+            aria-valuemax={steps.length}
+            aria-valuenow={completedSteps}
+          >
+            <span
+              style={{
+                width: (completedSteps / steps.length) * 100 + "%",
+              }}
+            />
+          </div>
+        </div>
+
+        <ol className="curating-list" aria-label="Preparation steps">
+          {steps.map(({ title, icon: Icon }, index) => {
+            const isComplete = index < completedSteps;
+            const isActive = index === completedSteps;
+            const visibleTitle =
+              index === 2 && libraryUnavailable
+                ? "Continuing without Library material"
+                : index === 3 && planUnavailable
+                  ? "Preparing your Coach room"
+                  : title;
+            return (
+              <li
+                className={
+                  "curating-item" +
+                  (isComplete ? " is-complete" : "") +
+                  (isActive ? " is-active" : "")
+                }
+                key={title}
+                aria-current={isActive ? "step" : undefined}
+              >
+                <span className="curating-marker" aria-hidden="true">
+                  {isComplete ? <Check size={16} strokeWidth={3} /> : index + 1}
+                </span>
+                <span className="curating-card">
+                  <span className="curating-card-icon" aria-hidden="true">
+                    <Icon size={20} strokeWidth={1.9} />
+                  </span>
+                  <span className="curating-card-title">{visibleTitle}</span>
+                </span>
+              </li>
+            );
+          })}
+        </ol>
+
+        <p className="curating-footer">
+          {planUnavailable
+            ? "A starting suggestion isn't available right now. You can still ask Coach a question."
+            : libraryUnavailable
+              ? "Your Library couldn't be checked right now. You can add material later."
+              : "Coach will open automatically when your starting point is ready."}
+        </p>
         <span className="sr-only" role="status" aria-live="polite">
           {activeTitle}
         </span>

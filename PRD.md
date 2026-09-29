@@ -61,7 +61,7 @@ The landing, setup, and curation screens precede the main navigation. The profil
 The original six images remain visual references, but the Review image is retired from the active screen set. Keep the image files as they are; correct sample details when building the working screens:
 
 - Assessment dates shown in retained mockups are inconsistent. When live assessments are connected, derive remaining days from one saved date everywhere.
-- Palette: blue, white, black, and grey remain the base. Keep surfaces, tags, chips, buttons, and card backgrounds neutral; reserve accent colors for icons. Coach uses blue, black, and grey for its conversation and main actions. The curation waveform uses only blue and white. Meaning never depends on color alone.
+- Palette: blue, white, black, and grey remain the base. Keep surfaces, tags, chips, buttons, and card backgrounds neutral; reserve accent colors for icons. Coach uses blue, black, and grey for its conversation and main actions. The curation transition uses only blue and white. Meaning never depends on color alone.
 - All dates, scores, progress figures, and source labels in the images are sample content. Replace them with saved, source-backed student data.
 
 The design must work on phone, tablet, and desktop. A separate mobile design pass is required.
