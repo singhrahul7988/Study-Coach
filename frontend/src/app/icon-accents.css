@@ -1,0 +1,162 @@
+/* Blue and white surfaces; feature color belongs to icons. */
+:root {
+  --icon-teal: #16715f;
+  --icon-violet: #6545a5;
+  --icon-amber: #965614;
+  --icon-coral: #ad4535;
+}
+
+:is(.side-nav, .mobile-nav) .nav-item:nth-child(1) svg,
+:is(.side-nav, .mobile-nav) .nav-item:nth-child(1).nav-item-active svg {
+  color: var(--icon-violet);
+}
+:is(.side-nav, .mobile-nav) .nav-item:nth-child(2) svg,
+:is(.side-nav, .mobile-nav) .nav-item:nth-child(2).nav-item-active svg {
+  color: var(--icon-amber);
+}
+:is(.side-nav, .mobile-nav) .nav-item:nth-child(3) svg,
+:is(.side-nav, .mobile-nav) .nav-item:nth-child(3).nav-item-active svg {
+  color: var(--icon-teal);
+}
+:is(.side-nav, .mobile-nav) .nav-item:nth-child(4) svg,
+:is(.side-nav, .mobile-nav) .nav-item:nth-child(4).nav-item-active svg {
+  color: var(--blue);
+}
+:is(.side-nav, .mobile-nav) .nav-item:nth-child(5) svg,
+:is(.side-nav, .mobile-nav) .nav-item:nth-child(5).nav-item-active svg {
+  color: var(--icon-coral);
+}
+.sidebar-toggle svg,
+.search-icon,
+.start-back svg {
+  color: var(--blue);
+}
+.profile-menu button[role="menuitem"] > svg {
+  background: #f1f3f6;
+}
+.profile-menu button[role="menuitem"]:nth-of-type(1) > svg {
+  color: var(--icon-violet);
+}
+.profile-menu button[role="menuitem"]:nth-of-type(2) > svg {
+  color: var(--blue);
+}
+.profile-menu button[role="menuitem"]:nth-of-type(3) > svg {
+  color: var(--icon-coral);
+}
+
+/* Today: distinguish pace and material while leaving labels neutral. */
+.today-eyebrow svg {
+  color: var(--icon-violet);
+}
+.today-rail-card.is-mint .today-rail-icon svg {
+  color: var(--icon-teal);
+}
+.today-rail-card.is-amber .today-rail-icon svg {
+  color: var(--icon-amber);
+}
+.today-task-status.is-done svg {
+  color: var(--icon-teal);
+}
+
+/* Coach and Study: distinguish planning, self-checks, and hints. */
+.journey-coach .journey-eyebrow svg,
+.coach-reply-plan-icon svg {
+  color: var(--icon-violet);
+}
+.journey-plan-icon svg {
+  color: var(--icon-amber);
+}
+.journey-plan-source-status svg {
+  color: var(--icon-teal);
+}
+.room-header .journey-eyebrow svg,
+.room-quick-actions button:nth-child(2) svg {
+  color: var(--icon-teal);
+}
+.room-quick-actions button:first-child svg {
+  color: var(--icon-violet);
+}
+.room-quick-actions .lucide-lightbulb,
+.hint-button svg {
+  color: var(--icon-amber);
+}
+.room-quick-actions a svg {
+  color: var(--blue);
+}
+
+/* Library: file types and actions have distinct icons, neutral containers. */
+.document-list-icon,
+.document-list-icon-pdf,
+.document-list-icon-docx,
+.document-list-icon-txt,
+.document-list-icon-md,
+.document-toolbar-icon {
+  background: #f1f3f6;
+}
+.document-list-icon-pdf svg {
+  color: var(--icon-coral);
+}
+.document-list-icon-docx svg {
+  color: var(--blue);
+}
+.document-list-icon-txt svg,
+.document-toolbar-icon svg {
+  color: var(--icon-teal);
+}
+.document-list-icon-md svg,
+.library-empty svg {
+  color: var(--icon-violet);
+}
+.document-insights-actions button:first-child svg {
+  color: var(--icon-teal);
+}
+.document-insights-actions button:nth-child(2) svg {
+  color: var(--icon-violet);
+}
+.library-delete svg {
+  color: var(--icon-coral);
+}
+.document-viewer {
+  border-color: #dce1e8;
+}
+.question-top button svg {
+  color: var(--icon-violet);
+}
+.question-count svg {
+  color: var(--icon-amber);
+}
+.study-document-empty > svg {
+  color: var(--icon-teal);
+}
+
+/* Progress: evidence, selection and time are distinct at a glance. */
+.progress-live-summary-icon.is-mint svg,
+.progress-live-task-icon.is-done svg {
+  color: var(--icon-teal);
+}
+.progress-live-summary-icon.is-violet svg {
+  color: var(--icon-violet);
+}
+.progress-live-summary-icon.is-amber svg {
+  color: var(--icon-amber);
+}
+.progress-live-empty-icon svg {
+  color: var(--icon-violet);
+}
+.progress-live-side small {
+  border-color: #e7eaf0;
+}
+
+/* Account pages: saved achievements and services keep their own cues. */
+.account-badge-heading-icon:has(.lucide-award) svg,
+.account-service:has(#gemini-key) .account-service-icon svg {
+  color: var(--icon-violet);
+}
+.account-badge.is-earned .account-badge-icon svg,
+.account-service:has(#deepgram-key) .account-service-icon svg {
+  color: var(--icon-teal);
+}
+.account-service .account-service-icon,
+.account-badge-heading-icon:has(.lucide-award) {
+  background: #f1f3f6;
+}

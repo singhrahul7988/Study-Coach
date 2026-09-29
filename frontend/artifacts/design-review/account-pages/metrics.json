@@ -1,0 +1,272 @@
+[
+  {
+    "name": "01-landing",
+    "device": "desktop",
+    "file": "E:\\Ranjan-Sir-main\\Ranjan-Sir-main\\frontend\\artifacts\\design-review\\account-pages\\01-landing-desktop.png",
+    "viewportWidth": 1440,
+    "pageWidth": 1440,
+    "viewportHeight": 900,
+    "pageHeight": 900
+  },
+  {
+    "name": "02-setup",
+    "device": "desktop",
+    "file": "E:\\Ranjan-Sir-main\\Ranjan-Sir-main\\frontend\\artifacts\\design-review\\account-pages\\02-setup-desktop.png",
+    "viewportWidth": 1440,
+    "pageWidth": 1440,
+    "viewportHeight": 900,
+    "pageHeight": 900
+  },
+  {
+    "name": "03-curating",
+    "device": "desktop",
+    "file": "E:\\Ranjan-Sir-main\\Ranjan-Sir-main\\frontend\\artifacts\\design-review\\account-pages\\03-curating-desktop.png",
+    "viewportWidth": 1440,
+    "pageWidth": 1440,
+    "viewportHeight": 900,
+    "pageHeight": 900
+  },
+  {
+    "name": "04-coach-start",
+    "device": "desktop",
+    "file": "E:\\Ranjan-Sir-main\\Ranjan-Sir-main\\frontend\\artifacts\\design-review\\account-pages\\04-coach-start-desktop.png",
+    "viewportWidth": 1440,
+    "pageWidth": 1440,
+    "viewportHeight": 900,
+    "pageHeight": 900
+  },
+  {
+    "name": "04-profile-menu",
+    "device": "desktop",
+    "file": "E:\\Ranjan-Sir-main\\Ranjan-Sir-main\\frontend\\artifacts\\design-review\\account-pages\\04-profile-menu-desktop.png",
+    "viewportWidth": 1440,
+    "pageWidth": 1440,
+    "viewportHeight": 900,
+    "pageHeight": 900
+  },
+  {
+    "name": "04-profile-settings",
+    "device": "desktop",
+    "file": "E:\\Ranjan-Sir-main\\Ranjan-Sir-main\\frontend\\artifacts\\design-review\\account-pages\\04-profile-settings-desktop.png",
+    "viewportWidth": 1440,
+    "pageWidth": 1440,
+    "viewportHeight": 900,
+    "pageHeight": 975
+  },
+  {
+    "name": "04-my-profile",
+    "device": "desktop",
+    "file": "E:\\Ranjan-Sir-main\\Ranjan-Sir-main\\frontend\\artifacts\\design-review\\account-pages\\04-my-profile-desktop.png",
+    "viewportWidth": 1440,
+    "pageWidth": 1440,
+    "viewportHeight": 900,
+    "pageHeight": 999
+  },
+  {
+    "name": "04-coach",
+    "device": "desktop",
+    "file": "E:\\Ranjan-Sir-main\\Ranjan-Sir-main\\frontend\\artifacts\\design-review\\account-pages\\04-coach-desktop.png",
+    "viewportWidth": 1440,
+    "pageWidth": 1440,
+    "viewportHeight": 900,
+    "pageHeight": 900
+  },
+  {
+    "name": "05-today",
+    "device": "desktop",
+    "file": "E:\\Ranjan-Sir-main\\Ranjan-Sir-main\\frontend\\artifacts\\design-review\\account-pages\\05-today-desktop.png",
+    "viewportWidth": 1440,
+    "pageWidth": 1440,
+    "viewportHeight": 900,
+    "pageHeight": 900
+  },
+  {
+    "name": "06-study-room",
+    "device": "desktop",
+    "file": "E:\\Ranjan-Sir-main\\Ranjan-Sir-main\\frontend\\artifacts\\design-review\\account-pages\\06-study-room-desktop.png",
+    "viewportWidth": 1440,
+    "pageWidth": 1440,
+    "viewportHeight": 900,
+    "pageHeight": 900
+  },
+  {
+    "name": "07-library",
+    "device": "desktop",
+    "file": "E:\\Ranjan-Sir-main\\Ranjan-Sir-main\\frontend\\artifacts\\design-review\\account-pages\\07-library-desktop.png",
+    "viewportWidth": 1440,
+    "pageWidth": 1440,
+    "viewportHeight": 900,
+    "pageHeight": 900
+  },
+  {
+    "name": "08-library-document",
+    "device": "desktop",
+    "file": "E:\\Ranjan-Sir-main\\Ranjan-Sir-main\\frontend\\artifacts\\design-review\\account-pages\\08-library-document-desktop.png",
+    "viewportWidth": 1440,
+    "pageWidth": 1440,
+    "viewportHeight": 900,
+    "pageHeight": 1006
+  },
+  {
+    "name": "09-study-document",
+    "device": "desktop",
+    "file": "E:\\Ranjan-Sir-main\\Ranjan-Sir-main\\frontend\\artifacts\\design-review\\account-pages\\09-study-document-desktop.png",
+    "viewportWidth": 1440,
+    "pageWidth": 1440,
+    "viewportHeight": 900,
+    "pageHeight": 913
+  },
+  {
+    "name": "10-progress",
+    "device": "desktop",
+    "file": "E:\\Ranjan-Sir-main\\Ranjan-Sir-main\\frontend\\artifacts\\design-review\\account-pages\\10-progress-desktop.png",
+    "viewportWidth": 1440,
+    "pageWidth": 1440,
+    "viewportHeight": 900,
+    "pageHeight": 900
+  },
+  {
+    "name": "11-library-empty",
+    "device": "desktop",
+    "file": "E:\\Ranjan-Sir-main\\Ranjan-Sir-main\\frontend\\artifacts\\design-review\\account-pages\\11-library-empty-desktop.png",
+    "viewportWidth": 1440,
+    "pageWidth": 1440,
+    "viewportHeight": 900,
+    "pageHeight": 900
+  },
+  {
+    "name": "01-landing",
+    "device": "mobile",
+    "file": "E:\\Ranjan-Sir-main\\Ranjan-Sir-main\\frontend\\artifacts\\design-review\\account-pages\\01-landing-mobile.png",
+    "viewportWidth": 390,
+    "pageWidth": 390,
+    "viewportHeight": 844,
+    "pageHeight": 844
+  },
+  {
+    "name": "02-setup",
+    "device": "mobile",
+    "file": "E:\\Ranjan-Sir-main\\Ranjan-Sir-main\\frontend\\artifacts\\design-review\\account-pages\\02-setup-mobile.png",
+    "viewportWidth": 390,
+    "pageWidth": 390,
+    "viewportHeight": 844,
+    "pageHeight": 1081
+  },
+  {
+    "name": "03-curating",
+    "device": "mobile",
+    "file": "E:\\Ranjan-Sir-main\\Ranjan-Sir-main\\frontend\\artifacts\\design-review\\account-pages\\03-curating-mobile.png",
+    "viewportWidth": 390,
+    "pageWidth": 390,
+    "viewportHeight": 844,
+    "pageHeight": 844
+  },
+  {
+    "name": "04-coach-start",
+    "device": "mobile",
+    "file": "E:\\Ranjan-Sir-main\\Ranjan-Sir-main\\frontend\\artifacts\\design-review\\account-pages\\04-coach-start-mobile.png",
+    "viewportWidth": 390,
+    "pageWidth": 390,
+    "viewportHeight": 844,
+    "pageHeight": 1177
+  },
+  {
+    "name": "04-profile-menu",
+    "device": "mobile",
+    "file": "E:\\Ranjan-Sir-main\\Ranjan-Sir-main\\frontend\\artifacts\\design-review\\account-pages\\04-profile-menu-mobile.png",
+    "viewportWidth": 390,
+    "pageWidth": 390,
+    "viewportHeight": 844,
+    "pageHeight": 1177
+  },
+  {
+    "name": "04-profile-settings",
+    "device": "mobile",
+    "file": "E:\\Ranjan-Sir-main\\Ranjan-Sir-main\\frontend\\artifacts\\design-review\\account-pages\\04-profile-settings-mobile.png",
+    "viewportWidth": 390,
+    "pageWidth": 390,
+    "viewportHeight": 844,
+    "pageHeight": 1321
+  },
+  {
+    "name": "04-my-profile",
+    "device": "mobile",
+    "file": "E:\\Ranjan-Sir-main\\Ranjan-Sir-main\\frontend\\artifacts\\design-review\\account-pages\\04-my-profile-mobile.png",
+    "viewportWidth": 390,
+    "pageWidth": 390,
+    "viewportHeight": 844,
+    "pageHeight": 1841
+  },
+  {
+    "name": "04-coach",
+    "device": "mobile",
+    "file": "E:\\Ranjan-Sir-main\\Ranjan-Sir-main\\frontend\\artifacts\\design-review\\account-pages\\04-coach-mobile.png",
+    "viewportWidth": 390,
+    "pageWidth": 390,
+    "viewportHeight": 844,
+    "pageHeight": 1697
+  },
+  {
+    "name": "05-today",
+    "device": "mobile",
+    "file": "E:\\Ranjan-Sir-main\\Ranjan-Sir-main\\frontend\\artifacts\\design-review\\account-pages\\05-today-mobile.png",
+    "viewportWidth": 390,
+    "pageWidth": 390,
+    "viewportHeight": 844,
+    "pageHeight": 1294
+  },
+  {
+    "name": "06-study-room",
+    "device": "mobile",
+    "file": "E:\\Ranjan-Sir-main\\Ranjan-Sir-main\\frontend\\artifacts\\design-review\\account-pages\\06-study-room-mobile.png",
+    "viewportWidth": 390,
+    "pageWidth": 390,
+    "viewportHeight": 844,
+    "pageHeight": 1327
+  },
+  {
+    "name": "07-library",
+    "device": "mobile",
+    "file": "E:\\Ranjan-Sir-main\\Ranjan-Sir-main\\frontend\\artifacts\\design-review\\account-pages\\07-library-mobile.png",
+    "viewportWidth": 390,
+    "pageWidth": 390,
+    "viewportHeight": 844,
+    "pageHeight": 1053
+  },
+  {
+    "name": "08-library-document",
+    "device": "mobile",
+    "file": "E:\\Ranjan-Sir-main\\Ranjan-Sir-main\\frontend\\artifacts\\design-review\\account-pages\\08-library-document-mobile.png",
+    "viewportWidth": 390,
+    "pageWidth": 390,
+    "viewportHeight": 844,
+    "pageHeight": 1522
+  },
+  {
+    "name": "09-study-document",
+    "device": "mobile",
+    "file": "E:\\Ranjan-Sir-main\\Ranjan-Sir-main\\frontend\\artifacts\\design-review\\account-pages\\09-study-document-mobile.png",
+    "viewportWidth": 390,
+    "pageWidth": 390,
+    "viewportHeight": 844,
+    "pageHeight": 1326
+  },
+  {
+    "name": "10-progress",
+    "device": "mobile",
+    "file": "E:\\Ranjan-Sir-main\\Ranjan-Sir-main\\frontend\\artifacts\\design-review\\account-pages\\10-progress-mobile.png",
+    "viewportWidth": 390,
+    "pageWidth": 390,
+    "viewportHeight": 844,
+    "pageHeight": 1403
+  },
+  {
+    "name": "11-library-empty",
+    "device": "mobile",
+    "file": "E:\\Ranjan-Sir-main\\Ranjan-Sir-main\\frontend\\artifacts\\design-review\\account-pages\\11-library-empty-mobile.png",
+    "viewportWidth": 390,
+    "pageWidth": 390,
+    "viewportHeight": 844,
+    "pageHeight": 1111
+  }
+]

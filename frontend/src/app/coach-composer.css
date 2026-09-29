@@ -1,0 +1,270 @@
+.journey-coach .journey-prompts {
+  display: block;
+  flex: none;
+  padding: 0 14px 8px;
+}
+
+.journey-prompt-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 46px;
+  align-items: center;
+  gap: 10px;
+}
+
+.journey-prompt-scroll {
+  display: flex;
+  gap: 8px;
+  min-width: 0;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;
+}
+.journey-prompt-scroll::-webkit-scrollbar {
+  display: none;
+}
+
+.journey-coach .journey-prompts .journey-prompt,
+.journey-coach .journey-prompts .journey-prompt-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 0;
+  height: 46px;
+  border: 1px solid #dfe9f8;
+  border-radius: 999px;
+  background: linear-gradient(180deg, #f9fbff, #f3f8ff);
+  box-shadow:
+    inset 0 1px 0 #fff,
+    0 2px 5px rgba(32, 94, 180, 0.045);
+  color: #19304f;
+  text-decoration: none;
+  transition:
+    border-color 180ms ease,
+    background 180ms ease,
+    box-shadow 180ms ease,
+    color 180ms ease;
+}
+
+.journey-coach .journey-prompts .journey-prompt {
+  gap: 8px;
+  flex: 1 0 auto;
+  justify-content: flex-start;
+  padding: 0 10px;
+  font-size: 12px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.journey-coach .journey-prompts .journey-prompt span {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.journey-coach .journey-prompts .journey-prompt svg {
+  flex: none;
+  width: 17px;
+  height: 17px;
+  color: #1766ec;
+  stroke-width: 2;
+}
+
+.journey-coach .journey-prompts .journey-prompt-toggle {
+  width: 46px;
+  padding: 0;
+  color: #1a477e;
+}
+
+.journey-prompt-toggle svg {
+  width: 20px;
+  height: 20px;
+  transition: transform 180ms ease;
+}
+
+.journey-prompts.is-expanded .journey-prompt-toggle svg {
+  transform: rotate(180deg);
+}
+
+.journey-coach .journey-prompts .journey-prompt:hover,
+.journey-coach .journey-prompts .journey-prompt-toggle:hover {
+  border-color: #b8d1fa;
+  background: #eaf3ff;
+  color: #0c4db9;
+  box-shadow: 0 3px 9px rgba(22, 94, 227, 0.09);
+  text-decoration: none;
+}
+
+.journey-coach .journey-prompts .journey-prompt:focus-visible,
+.journey-coach .journey-prompts .journey-prompt-toggle:focus-visible {
+  outline: 3px solid rgba(22, 94, 227, 0.28);
+  outline-offset: 2px;
+}
+
+.journey-prompt-more[hidden] {
+  display: none;
+}
+
+.journey-prompt-more {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.journey-coach .journey-composer {
+  gap: 8px;
+  padding: 5px 14px 14px;
+  border-top: 0;
+}
+
+.journey-coach .journey-composer input {
+  height: 52px;
+  padding: 0 15px;
+  border: 1px solid #d8e5f8;
+  border-radius: 13px;
+  background: #fff;
+  box-shadow: inset 0 1px 2px rgba(34, 86, 161, 0.025);
+  color: #112343;
+  font-size: 14px;
+}
+
+.journey-coach .journey-composer input::placeholder {
+  color: #7184a0;
+}
+
+.journey-coach .journey-composer input:focus {
+  border-color: #77a9f7;
+  box-shadow: 0 0 0 3px rgba(22, 94, 227, 0.12);
+}
+
+.journey-coach .journey-voice,
+.journey-coach .journey-send {
+  width: 52px;
+  height: 52px;
+  border-radius: 13px;
+}
+
+.journey-coach .journey-voice {
+  border-color: #d8e5f8;
+  background: #fff;
+  color: #527098;
+}
+
+.journey-coach .journey-voice:hover {
+  border-color: #aecafb;
+  background: #f0f6ff;
+  color: #165ee3;
+}
+
+.journey-coach .journey-voice.is-listening {
+  border-color: #a9c7f7;
+  background: #eaf3ff;
+  color: #165ee3;
+}
+
+.journey-coach .journey-send {
+  background: #165ee3;
+  box-shadow: 0 3px 8px rgba(22, 94, 227, 0.16);
+}
+
+.journey-coach .journey-send:hover:not(:disabled) {
+  background: #0c4dc7;
+}
+
+.journey-coach .journey-send:disabled {
+  background: #1c62df;
+  opacity: 0.67;
+  cursor: not-allowed;
+}
+
+.journey-coach .journey-voice svg,
+.journey-coach .journey-send svg {
+  width: 21px;
+  height: 21px;
+}
+
+@media (max-width: 700px) {
+  .journey-coach .journey-prompts {
+    padding: 0 12px 8px;
+  }
+  .journey-prompt-row {
+    grid-template-columns: minmax(0, 1fr) 44px;
+    gap: 8px;
+  }
+  .journey-prompt-scroll {
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: none;
+  }
+  .journey-prompt-scroll::-webkit-scrollbar {
+    display: none;
+  }
+  .journey-coach .journey-prompts .journey-prompt {
+    flex: none;
+    scroll-snap-align: start;
+    max-width: 270px;
+    font-size: 12px;
+  }
+  .journey-coach .journey-prompts .journey-prompt-toggle {
+    width: 44px;
+    height: 44px;
+  }
+  .journey-prompt-more {
+    display: flex;
+    flex-wrap: wrap;
+    max-height: 140px;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    padding: 2px 3px 2px 0;
+    scrollbar-width: thin;
+  }
+  .journey-coach .journey-composer {
+    gap: 7px;
+    padding: 5px 12px 12px;
+  }
+  .journey-coach .journey-composer input {
+    height: 46px;
+    padding-inline: 12px;
+    font-size: 13px;
+  }
+  .journey-coach .journey-voice,
+  .journey-coach .journey-send {
+    width: 46px;
+    height: 46px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .journey-coach .journey-prompts .journey-prompt,
+  .journey-coach .journey-prompts .journey-prompt-toggle,
+  .journey-prompt-toggle svg {
+    transition: none;
+  }
+}
+
+@media (min-width: 1101px) {
+  .journey-coach-grid {
+    grid-template-columns: minmax(0, 1fr) 320px;
+  }
+}
+
+@media (min-width: 701px) and (max-width: 1400px) {
+  .journey-prompt-scroll {
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: none;
+  }
+  .journey-prompt-scroll::-webkit-scrollbar {
+    display: none;
+  }
+  .journey-coach .journey-prompts .journey-prompt {
+    flex: none;
+    scroll-snap-align: start;
+    width: max-content;
+  }
+  .journey-prompts.is-expanded .journey-prompt-scroll {
+    flex-wrap: wrap;
+    overflow: visible;
+  }
+}

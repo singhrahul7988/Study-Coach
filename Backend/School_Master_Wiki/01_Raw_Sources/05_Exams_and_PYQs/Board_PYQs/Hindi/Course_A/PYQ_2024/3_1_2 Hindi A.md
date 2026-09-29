@@ -1,0 +1,787 @@
+---
+source_file: 3_1_2 Hindi A.pdf
+type: Official_Educational_Resource
+---
+
+# DOCUMENT: 3_1_2 Hindi A
+*LLM INSTRUCTION: This is a verified raw source. Use this content to answer questions or generate study plans.*
+
+**==> picture [17 x 17] intentionally omitted <==**
+
+## **SET-2** 
+
+## **Series D3BCA/1** 
+
+## àíZ-nÌ H$moS> 
+
+## **3/1/2** 
+
+amob> Z§. 
+
+**==> picture [188 x 36] intentionally omitted <==**
+
+narjmWu àíZ-nÌ H$moS> H$mo CÎma-nwpñVH$m Ho$ _wI-n¥ð> na Adí` {bI|Ÿ& 
+
+- H¥$n`m Om±M H$a b| {H$ Bg àíZ-nÌ _| _w{ÐV n¥ð> 15 h¢Ÿ& 
+
+- H¥$n`m Om±M H$a b| {H$ Bg àíZ-nÌ _| 17 àíZ h¢& 
+
+- àíZ-nÌ _| Xm{hZo hmW H$s Amoa {XE JE àíZ-nÌ H$moS H$mo narjmWu CÎma-nwpñVH$m Ho$ _wI-n¥ð> na {bI|& 
+
+- H¥$n`m àíZ H$m CÎma {bIZm ewê$ H$aZo go nhbo, CÎma-nwpñVH$m _| àíZ H$m H«$_m§H$ Adí` {bI|& 
+
+- Bg àíZ-nÌ H$mo n‹T>Zo Ho$ {bE 15 {_ZQ> H$m g_` {X`m J`m h¡& àíZ-nÌ H$m {dVaU nydm©• _| 10.15 ~Oo {H$`m OmEJm& 10.15 ~Oo go 10.30 ~Oo VH$ narjmWu Ho$db àíZ-nÌ H$mo n‹T>|Jo Am¡a Bg Ad{Y Ho$ Xm¡amZ do CÎma-nwpñVH$m na H$moB© CÎma Zht {bI|Jo& 
+
+**==> picture [37 x 37] intentionally omitted <==**
+
+## {hÝXr (A) 
+
+## **HINDI (A)** 
+
+**==> picture [109 x 35] intentionally omitted <==**
+
+## {ZYm©[aV g_` … 3 KÊQ>o 
+
+A{YH$V_ A§H$ … 80 
+
+## gm_mÝ` {ZX}e … 
+
+## {ZåZ{b{IV {ZX}em| H$mo ~hþV gmdYmZr go n{‹T>E Am¡a CZH$m gµ»Vr go AZwnmbZ H$s{OE … 
+
+- _(i)_ Bg àíZ-nÌ _| Hw$b 17 àíZ h¢& g^r àíZ A{Zdm`© h¢& 
+
+- _(ii)_ Bg àíZ-nÌ _| Xmo I§S> h¢ - I§S>-"A' Am¡a I§S>-"~'& I§S>-"A' _| ~hþ{dH$ënr/dñVwnaH$ Am¡a I§S>- "~' _| dU©ZmË_H$ àíZ {XE JE h¢& 
+
+- _(iii)_ I§S>- "A' _| Hw$b 10 àíZ h¢, {OZ_| CnàíZm| H$s g§»`m 44 h¡& {XE JE {ZX}em| H$m nmbZ H$aVo hþE 40 CnàíZm| Ho$ CÎma XoZm A{Zdm`© h¡& 
+
+- _(iv)_ I§S>- "~' _| Hw$b 7 àíZ h¢& g^r àíZm| Ho$ gmW CZHo$ {dH$ën ^r {XE JE h¢& {ZX}emZwgma {dH$ën H$m Ü`mZ aIVo hþE g^r àíZm| Ho$ CÎma {b{IE& 
+
+- _(v)_ àíZm| Ho$ CÎma {XE JE {ZX}em| H$m nmbZ H$aVo hþE {b{IE& 
+
+- _(vi)_ `Wmg§^d g^r àíZm| Ho$ CÎma H«$_mZwgma {b{IE& 
+
+3/1/2 3 
+
+P.T.O. 
+
+Page 1 
+
+**==> picture [17 x 17] intentionally omitted <==**
+
+## I§S> "A' (~hþ{dH$ënr/dñVwnaH$ àíZ) 
+
+**1.** {ZåZ{b{IV H$mì`m§e H$mo Ü`mZnyd©H$ n‹T>H$a Cg na AmYm[aV {XE JE àíZm| Ho$ gdm©{YH$ Cn`wº$ **5×1=5** 
+
+CÎma dmbo {dH$ën MwZH$a {b{IE … 
+
+gM go hQ> H$a {OE Vmo Š`m {OE h_ `m {H$ Vw_& 
+
+Omo ZV hþAm dh _¥V hþAm Á`m| d¥§V go Pa H$a Hw$gw_& Omo bú` ^yb éH$m Zht, Omo hma XoI PwH$m Zht& {OgZo àU` nmWo` _mZm, OrV CgH$s hr ahr& gM h_ Zht gM Vw_ Zht, gM h¡ _hO g§Kf© hr& Eogm H$amo {Oggo Z àmUm| _| H$ht O‹S>Vm aho& Omo h¡ Ohm± MwnMmn, AnZo-Amn go b‹S>Vm aho& Omo ^r n[apñW{V`m± {_b|, H$m±Q>o Mw^| H${b`m± {Ib|& hmao Zht B§gmZ, h¡ g§Xoe OrdZ H$m `hr& 
+
+gM h_ Zht gM Vw_ Zht, gM h¡ _hO g§Kf© hr& h_Zo aMm AmAmo h_r§ A~ Vmo‹S> X| Bg ß`ma H$mo& dh Š`m {_bZ, {_bZm dhr Omo _mo‹S> Xo _±PYma H$mo& 
+
+- **(i)** "AnZo-Amn go' b‹S>Zo H$m Š`m A{^àm` h¡? 
+
+   - (A) AnZo ^rVa CR>o A§VÛªÛ go b‹S>Zm 
+
+   - (B) AnZo ^rVa H$s H$_Omo[a`m| go b‹S>Zm 
+
+   - (C) AnZr emar[aH$ H$_Omo[a`m| go b‹S>Zm 
+
+   - (D) AnZr _mZ{gH$ ì`m{Y`m| go b‹S>Zm 
+
+- **(ii)** "Omo ZV hþAm dh _¥V hþAm' Š`m| H$hm J`m h¡? 
+
+   - (A) PwH$Zm K_§S> H$m n[aMm`H$ h¡& 
+
+   - (B) PwH$Zm {dZ_«Vm H$m n[aMm`H$ h¡& 
+
+   - (C) PwH$Zo dmbm _¥VH$ Ho$ g_mZ h¡& 
+
+   - (D) ñdm{^_mZ a{hV OrdZ _¥VH$ Ho$ g_mZ h¡& 
+
+- **(iii)** H$mì`m§e H$m g§Xoe h¡ … 
+
+   - (A) ha àH$ma H$s n[apñW{V go g_Pm¡Vm H$a ñd`§ H$mo T>mbZo H$m& 
+
+   - (B) OrV H$s g§^mdZm dmbo _mJ© na hr AmJo ~‹T>Zo H$m& 
+
+   - (C) H¡$gr ^r H${R>Z n[apñW{V hmo Cggo hma Z _mZZo H$m& 
+
+   - (D) hma H$s g§^mdZm hmoZo na ZdrZ bú` Ho$ {Z_m©U H$m& 
+
+3/1/2 3 
+
+Page 2 
+
+**==> picture [17 x 17] intentionally omitted <==**
+
+- **(iv)** "H$m±Q>o' Am¡a "H${b`m±' {H$gHo$ àVrH$ h¢? 
+
+   - (A) gwI Am¡a XþI Ho$& 
+
+   - (B) XþI Am¡a gwI Ho$& 
+
+   - (C) g_¥{Õ Am¡a CËH$f© Ho$& 
+
+   - (D) {Z_m©U Am¡a nVZ Ho$& 
+
+- **(v)** H$WZ Am¡a H$maU na {dMma H$aVo hþE ghr {dH$ën MwZH$a {b{IE … 
+
+   - H$WZ - _mZd _mÌ H$m OrdZ g§Kf©nyU© h¡& 
+
+H$maU - _mZd _mÌ H$mo AnZo OrdZ H$s g_-{df_ ha Vah H$s n[apñW{V`m| H$m S>Q>H$a gm_Zm H$aZm Mm{hE& 
+
+   - (A) H$WZ JbV h¡ Am¡a H$maU ghr h¡& 
+
+   - (B) H$WZ Am¡a H$maU XmoZm| hr JbV h¢& 
+
+   - (C) H$WZ ghr h¡ Am¡a H$maU, H$WZ H$s ghr ì`m»`m h¡& 
+
+   - (D) H$WZ Am¡a H$maU XmoZm| ghr h¢ bo{H$Z H$maU H$WZ H$s ghr ì`m»`m Zht H$aVm h¡& 
+
+**2.** {ZåZ{b{IV JÚm§e H$mo Ü`mZnyd©H$ n‹T>H$a Cg na AmYm[aV {XE JE àíZm| Ho$ gdm©{YH$ Cn`wº$ **5×1=5** 
+
+CÎma dmbo {dH$ën MwZH$a {b{IE … 
+
+^maV EH$ {demb Xoe h¡& `hm± Ho$ {d{^Þ amÁ`m| H$s AnZr joÌr` ^mfmE± h¢& ñdV§ÌVm Ho$ níMmV go _mV¥^mfm H$mo àmoËgm{hV H$aZo H$s ~mV| MMm© _| ahr h¢& na§Vw BZHo$ {dH$mg Ho$ {bE H$moB© R>mog Cnm` Zht {H$E JE& BgHo$ H$maU àË`oH$ joÌ _| {dXoer ^mfm A§J«oOr H$m dM©ñd ñWm{nV hmo J`m& ZoëgZ _§S>obm Zo H$hm Wm {H$ {H$gr ^r ì`{º$ Ho$ gmoMZo H$s à{H«$`m AnZr _mV¥^mfm _| hmoVr h¡& AJa {H$gr ì`{º$ go CgH$s _mV¥^mfm _| ~mV H$a| Vmo dh ~mV {Xb VH$ nhþ±MVr h¡& 
+
+`h gd©{d{XV h¡ {H$ _mV¥^mfm _| {ejm àmá H$aZm AË`§V ghO Ed§ gwJ_ hmoVm h¡& AnZr _mV¥^mfm _| {dÚmWu {H$gr ^r {df` H$mo gabVm go g_P boVm h¡ O~{H$ AÝ` ^mfmAm| _| Cgo H${R>ZmB© H$m gm_Zm H$aZm n‹S>Vm h¡& {díd^a Ho$ {ejm{dXmo§ Zo _mV¥^mfm _| {ejm àXmZ {H$E OmZo H$mo _hÎd {X`m h¡& {díd ñdmñÏ` g§JR>Z H$s EH$ [anmoQ>© Ho$ AZwgma AnZr _mV¥^mfm _| {M{H$Ëgm H$s n‹T>mB© H$admZo dmbo Xoem| _| {M{H$Ëgm Ed§ ñdmñÏ` ì`dñWm H$s pñW{V AÝ` Xoem| H$s VwbZm _| AÀN>r h¡& MrZ, ê$g, O_©Zr, \«$m§g Am¡a OmnmZ g{hV AZoH$ Xoe AnZr _mV¥^mfm _| {ejm àXmZ H$a aho h¢& gd©{d{XV h¡ {H$ `o Xoe bJ^J àË`oH$ joÌ _| AJ«Ur h¢& BZ Xoem| Zo AnZr _mV¥^mfm _| {ejm àXmZ H$aHo$ hr CÞ{V àmá H$s h¡& `{X ñdV§ÌVm Ho$ níMmV ^maV _| ^r _mV¥^mfm _| 
+
+3/1/2 3 
+
+P.T.O. 
+
+Page 3 
+
+**==> picture [17 x 17] intentionally omitted <==**
+
+{M{H$Ëgm Ed§ VH$ZrH$s {ejm àXmZ H$s OmVr Vmo h_ AmO {díd _| Am¡a A{YH$ ~ohVa pñW{V _| 
+
+hmoVo& dV©_mZ _| Bg {Xem _| R>mog Am¡a H«$m§{VH$mar H$X_ CR>mE OmZo H$s Amdí`H$Vm h¡& 
+
+- **(i)** {H$gr ^r Xoe Ho$ AmYma^yV {dH$mg Ho$ {bE Amdí`H$ h¡ … 
+
+   - (A) VH$ZrH$s {ejm H$m {dñVma hmoZm 
+
+   - (B) {M{H$Ëgr` {ejm H$m {dñVma hmoZm 
+
+   - (C) {H$gr ^r ^mfm _| {ejm XoZm 
+
+   - (D) _mV¥^mfm _| {ejm H$m {dñVma hmoZm 
+
+- **(ii)** ñdmñÏ` Am¡a {M{H$Ëgm H$s Ñ{ï> go H$m¡Z-go Xoe AÀN>r pñW{V _| h¢? 
+
+   - (A) _mV¥^mfm _| {M{H$Ëgr` {ejm XoZo dmbo Xoe 
+
+   - (B) AnZr amï´>^mfm H$mo _mV¥^mfm ~ZmZo dmbo Xoe 
+
+   - (C) amï´>^mfm Am¡a _mV¥^mfm H$mo g_mZ _mZZo dmbo Xoe 
+
+   - (D) A§J«oOr ^mfm go Xÿar ~ZmZo dmbo Xoe 
+
+- **(iii)** ^maV _| joÌr` ^mfmAm| Ho$ AnojmH¥$V H$_ {dH${gV hmoZo Ho$ Š`m H$maU h¢? 
+
+   - (A) qhXr ^mfm H$m dM©ñd 
+
+   - (B) A§J«oOr ^mfm H$m dM©ñd 
+
+   - (C) Cn`wº$ à`mgm| H$m A^md 
+
+   - (D) ñWmZr` BÀN>me{º$ H$m A^md 
+
+- **(iv)** "_mV¥^mfm _| {ejm àmá H$aZm AmgmZ hmoVm h¡&' Bg H$WZ Ho$ nj _| {ZåZ{b{IV _| go H$m¡Z-gm /H$m¡Z-go VH©$ ghr h¡/h¢? 
+
+   1.  _mV¥^mfm _| àmá kmZ H$mo g_PZm gab h¡& 
+
+   2. _mV¥^mfm _| àmá kmZ H$mo g_PZm O{Q>b h¡& 
+
+   3. _mV¥^mfm AÝ` ^mfmAm| go gab-ñdê$n hmoVr h¡& 
+
+   4. _mV¥^mfm Am¡a Xÿgar ^mfmAm| _| H$moB© A§Va Zht h¡& 
+
+   - {dH$ën … 
+
+   - (A) 1 ghr h¡& 
+
+   - (B) 3 ghr h¡& 
+
+   - (C) 1 Am¡a 2 ghr h¡§& 
+
+   - (D) 1 Am¡a 4 ghr h¡§& 
+
+3/1/2 3 
+
+Page 4 
+
+**==> picture [17 x 17] intentionally omitted <==**
+
+   - **(v)** H$WZ Am¡a H$maU H$mo n‹T>H$a Cn`wº$ {dH$ën MwZH$a {b{IE … 
+
+      - H$WZ - ^maV _| {ejm Ho$ _mÜ`_ _| ~Xbmd dV©_mZ H$s Amdí`H$Vm h¡& 
+
+      - H$maU - {ejm Ho$ _mÜ`_ Ho$ à{V Ñ{ï>H$moU g_mO _| H«$m§{VH$mar n[adV©Z bm gH$Vm h¡& 
+
+      - (A) H$WZ JbV h¡, qH$Vw H$maU ghr h¡& 
+
+      - (B) H$WZ Am¡a H$maU XmoZm| hr JbV h¢& 
+
+      - (C) H$WZ ghr h¡ Am¡a H$maU, H$WZ H$s ghr ì`m»`m h¡& 
+
+      - (D) H$WZ ghr h¡ qH$Vw H$maU, H$WZ H$s ghr ì`m»`m Zht h¡& 
+
+**3.** {ZX}emZwgma aMZm Ho$ AmYma na dmŠ` ^oX na AmYm[aV nm±M ~hþ{dH$ënr àíZm| _| go {H$Ýht Mma **4×1=4** 
+
+àíZm| Ho$ {bE C{MV {dH$ën MwZH$a {b{IE … 
+
+   - **(i)** "`Ú{n Orn H$ñ~o go AmJo ~‹T> JB© na§Vw hmbXma gmh~ _y{V© Ho$ ~mao _| gmoMVo aho&' Bg dmŠ` H$m gab dmŠ` hmoJm … 
+
+      - (A) Orn Ho$ H$ñ~o go AmJo ~‹T> OmZo na ^r hmbXma gmh~ _y{V© Ho$ ~mao _| gmoMVo aho& 
+
+      - (B) Orn H$ñ~o go AmJo ~‹T> JB© Am¡a hmbXma gmh~ _y{V© Ho$ ~mao _| gmoMVo aho& 
+
+      - (C) hmbXma gmh~ _y{V© Ho$ ~mao _| gmoMVo aho Am¡a Orn H$ñ~o go AmJo ~‹T> JB©& 
+
+      - (D) O~ Orn H$ñ~o go AmJo ~‹T> JB© V~ hmbXma gmh~ _y{V© Ho$ ~mao _| gmoMZo bJo& 
+
+   - **(ii)** "do ñd`§ n‹T>Zm-{bIZm Z OmZVo hþE ^r Xÿgam| _| Xmof {ZH$mbm H$aVo h¢&' - Bg dmŠ` H$m g§`wº$ dmŠ` h¡ … 
+
+      - (A) do ñd`§ n‹T>Zm-{bIZm Zht OmZVo h¢ na§Vw Xÿgam| _| Xmof {ZH$mbm H$aVo h¢& 
+
+      - (B) hmbm±{H$ do ñd`§ n‹T>Zm-{bIZm Zht OmZVo na§Vw Xÿgam| _| Xmof {ZH$mbm H$aVo h¢& 
+
+      - (C) Omo ñd`§ n‹T>Zm-{bIZm Zht OmZVo do ^r Xÿgam| _| Xmof {ZH$mbm H$aVo h¢& 
+
+      - (D) ñd`§ n‹T>Zm-{bIZm Z OmZZo dmbo ^r AŠga Xÿgam| _| Xmof {ZH$mbm H$aVo h¢& 
+
+   - **(iii)** {ZåZ{b{IV dmŠ`m| _| go {_l dmŠ` nhMmZ H$a ZrMo {XE JE {dH$ënm| _| go gdm©{YH$ Cn`wº$ CÎma dmbm {dH$ën MwZH$a {b{IE… 
+
+      1.  ~hþV-go Cƒ {ejm àmá bmoJ ^r Bg ~mV H$m I§S>Z hr H$aVo h¢& 
+
+      2. ~m¡Õm| H$m {Ì{nQ>H$ àmH¥$V _| aMm J`m Am¡a `h _hm^maV go ^r ~‹S>m h¡& 
+
+      3. boIH$ Zo {ó`m| Ho$ àmH¥$V ~mobZo H$mo CZHo$ AZn‹T> hmoZo H$m à_mU Zht _mZm& 
+
+      4. `{X H$moB© {ejm-àUmbr ór-{ejm H$mo AZW©H$mar ~VmE Vmo Cg_| g§emoYZ hmoZm Mm{hE& 
+
+3/1/2 3 
+
+P.T.O. 
+
+Page 5 
+
+**==> picture [17 x 17] intentionally omitted <==**
+
+{dH$ën … 
+
+   - (A) Ho$db 2 ghr 
+
+   - (B) Ho$db 4 ghr 
+
+   - (C) 2 Am¡a 4 ghr 
+
+   - (D) 1 Am¡a 3 ghr 
+
+- **(iv)** {ZåZ{b{IV dmŠ`m| _| gab dmŠ` H$m CXmhaU Zht h¡ … 
+
+   - (A) _w»` Jm`H$ H$s g\$bVm _| CgH$m ^r gå_mZ {N>nm h¡& 
+
+   - (B) g§JVH$ma Jm`Z Ho$ ñWm`r H$m ñda h_oem nH$‹S>H$a aIVm h¡& 
+
+   - (C) g§JVH$ma Ho$ {~Zm _w»` Jm`H$ H$s g\$bVm g§{X½Y ~Zr ahVr h¡& 
+
+   - (D) Omo _w»` Jm`H$ h¡ CgHo$ {~Zm g§JVH$ma H$m ApñVËd Zht h¡& 
+
+- **(v)** ñV§^ 1 H$mo ñV§^ 2 go gw_o{bV H$s{OE Am¡a ghr {dH$ën H$m M`Z H$a {b{IE … 
+
+|ñV§^ 1 Hmo ñV§^ 2 go gw_o{bV Hs{OE Am¡a ghr {dHën H|m M`Z Ha {b{IE …|
+|---|---|
+|ñV§^ 1|ñV§^ 2|
+|1. Omo ~mV VÏ` AmYm[aV h¡ Cgo Vmo ~o{PPH _mZ boZr<br>Mm{hE&|I.g§`wº dmŠ`|
+|2. ~agmV _| ~ƒo ~mha OmVo h¢ Am¡a _mVm-{nVm Sa<br>OmVo h¢&|II.gab dmŠ`|
+|3. AmOHb _mVm-{nVm AnZo ~ƒm| Hm ~hþV A{YH<br>Ü`mZ aIVo h¢&|III.{_l dmŠ`|
+
+
+
+{dH$ën … 
+
+|(A)|1|III|2|I|3|II|
+|---|---|---|---|---|---|---|
+|(B)|1|I|2|II|3|III|
+|(C)|1|III|2|II|3|I|
+|(D)|1|II|2|III|3|I|
+
+
+
+**4.** {ZX}emZwgma "nX n[aM`' na AmYm[aV nm±M ~hþ{dH$ënr àíZm| _| go {H$Ýht Mma àíZm| Ho$ CÎma Ho$ {bE ghr {dH$ën MwZH$a {b{IE … **4×1=4** 
+
+   - **(i)** "g§nmXH$ _hmoX` ~YmB© XoZo Ho$ {bE grYo Ka Mbo AmE&' - dmŠ` _| aoIm§{H$V nX H$m n[aM` h¡ … 
+
+      - (A) ì`{º$dmMH$ g§km, EH$dMZ, órqbJ, H$Vm© H$maH$ 
+
+      - (B) ì`{º$dmMH$ g§km, EH$dMZ, nwq„J, H$Vm© H$maH$ 
+
+      - (C) Om{VdmMH$ g§km, EH$dMZ, nwq„J, H$Vm© H$maH$ 
+
+      - (D) Om{VdmMH$ g§km, EH$dMZ, órqbJ, g§àXmZ H$maH$ 
+
+3/1/2 3 
+
+Page 6 
+
+**==> picture [17 x 17] intentionally omitted <==**
+
+   - **(ii)** "AnZr _m± H$mo `mX H$aHo$ do ^mdwH$ hmo OmVo Wo&'- aoIm§{H$V nX H$m n[aM` h¡ … 
+
+      - (A) nwéfdmMH$ gd©Zm_, EH$dMZ, órqbJ, H$_© H$maH$ 
+
+      - (B) {ZíM`dmMH$ gd©Zm_, EH$dMZ, nwq„J, H$_© H$maH$ 
+
+      - (C) gmd©Zm{_H$ {deofU, EH$dMZ, órqbJ, H$_© H$maH$ 
+
+      - (D) A{ZíM`dmMH$ gd©Zm_, EH$dMZ, nwq„J, H$Vm© H$maH$ 
+
+   - **(iii)** {ZåZ{b{IV dmŠ`m| _| go {H$g dmŠ` _| ñWmZdmMH$ {H«$`m{deofU H$m à`moJ Zht hþAm h¡? 
+
+      - (A) ZmJmOw©Z H$s Ama§{^H$ {ejm g§ñH¥$V nmR>embm _| hþB©& 
+
+      - (B) do ~m¡Õ Y_© _| Xr{jV hmoZo Ho$ {bE lrb§H$m JE Wo& 
+
+      - (C) Xmo gmb Ho$ àdmg Ho$ ~mX hr do ñdXoe bm¡Q> AmE& 
+
+      - (D) AY©H$WmZH$ qhXr H$s nhbr AmË_H$Wm _mZr OmVr h¡& 
+
+   - **(iv)** "_¢ ~MnZ _| {nVmOr go ~hþV S>aVr Wr&' aoIm§{H$V nX H$m n[aM` h¡ … 
+
+      - (A) _Ü`_nwéf gd©Zm_, órqbJ, EH$dMZ, H$Vm© H$maH$ 
+
+      - (B) gmd©Zm{_H$ {deofU, EH$dMZ, órqbJ, "~MnZ' {deoî` 
+
+      - (C) CÎm_nwéf gd©Zm_, EH$dMZ, órqbJ, H$Vm© H$maH$ 
+
+      - (D) AÝ` nwéf gd©Zm_, órqbJ, EH$dMZ, H$Vm© H$maH$ 
+
+   - **(v)** "do h_mao h±gr-_µOmH$ _| {Z{b©ßV ^md go em{_b ahVo&' aoIm§{H$V H$m nX-n[aM` h¡ … 
+
+      - (A) ñWmZdmMH$ {H«$`m{deofU, "em{_b ahVo' {H«$`m H$s {deofVm 
+
+      - (B) H$mbdmMH$ {H«$`m{deofU, "em{_b ahVo' {H«$`m H$s {deofVm 
+
+      - (C) ar{VdmMH$ {H«$`m{deofU, "em{_b ahVo' {H«$`m H$s {deofVm $ 
+
+      - (D) n[a_mUdmMH$ {H«$`m{deofU, "em{_b ahVo' {H«$`m H$s {deofVm 
+
+**5.** {ZX}emZwgma "Ab§H$ma' na AmYm[aV nm±M ~hþ{dH$ënr àíZm| _| go {H$Ýht Mma àíZm| Ho$ ghr CÎma **4×1=4** 
+
+dmbo {dH$ën MwZH$a {b{IE … 
+
+   - **(i)** "nmZr namV H$mo hmW Nw>`mo Zht, Z¡ZZ Ho$ Ob gmo§ nJ YmoE&' Bg H$mì`-n§{º$ _| Ab§H$ma h¡… 
+
+      - (A) CËàojm 
+
+      - (B) íbof 
+
+      - (C) `_H$$ 
+
+      - (D) A{Ve`mo{º$ 
+
+3/1/2 3 
+
+P.T.O. 
+
+Page 7 
+
+**==> picture [17 x 17] intentionally omitted <==**
+
+- **(ii)** "Yrao-Yrao CVa {j{VO go Am ~g§Vr aOZr' - Bg n§{º$ _| à`wº$ Ab§H$ma h¡ … 
+
+   - (A) _mZdrH$aU 
+
+   - (B) íbof 
+
+   - (C) CËàojm 
+
+   - (D) A{Ve`mo{º$ 
+
+- **(iii)** "{dÚm YZ CÚ_ {~Zm H$hm¡ Ow nmd¡ H$m¡Z& 
+
+{~Zm Sw>bmE Zm {_bo Á`m| n§Im H$s nm¡Z&&' 
+
+BZ H$mì`-n§{º$`m| _| {H$g Ab§H$ma H$m à`moJ hþAm h¡? 
+
+   - (A) `_H$ 
+
+   - (B) íbof 
+
+   - (C) _mZdrH$aU 
+
+   - (D) CËàojm 
+
+- **(iv)** "_¥Xþ {_Å>r Ho$ h¢ ~Zo hþE 
+
+_Yw KQ> \y$Q>m hr H$aVo h¢&' 
+
+BZ H$mì`-n§{º$`m| _| à`wº$ Ab§H$ma h¡ … 
+
+   - (A) _mZdrH$aU 
+
+   - (B) íbof 
+
+   - (C) CËàojm 
+
+   - (D) `_H$ 
+
+- **(v)** {ZåZ{b{IV H$mì`-n§{º$`m| _| go H$m¡Z-gr n§{º$ A{Ve`mo{º$ Ab§H$ma H$m CXmhaU h¡? 
+
+   - (A) {díd eb^ {ga YwZ H$hVm _¢, 
+
+hm` Z Ob nm`m VwP_| {_b& 
+
+- (B) A§~a Ho$ AmZZ H$mo XoImo, 
+
+{H$VZo BgHo$ Vmao Qy>Q>o& 
+
+- (C) dh Xm¡‹S> ahm A[a _ñVH$ na, 
+
+dh Amg_mZ H$m Kmo‹S>m Wm& 
+
+- (D) Á`m¢-Á`m¢ ~y‹S>o ñ`m_ a§J, 
+
+Ë`m¢-Ë`m¢ CÁObw hmoB©& 
+
+3/1/2 3 
+
+Page 8 
+
+**==> picture [17 x 17] intentionally omitted <==**
+
+**6.** {ZX}emZwgma "dmÀ`' na AmYm[aV nm±M ~hþ{dH$ënr àíZm| _| go {H$Ýht Mma àíZm| Ho$ ghr CÎma **4×1=4** 
+
+dmbo {dH$ën MwZH$a {b{IE … 
+
+   - **(i)** "boIH$ Zo AnZo VH$m] go CZH$s Xbrbm| H$m I§S>Z {H$`m&' - dmŠ` _| dmÀ` h¡ … 
+
+      - (A) H$_©dmÀ` 
+
+      - (B) ^mddmÀ` 
+
+      - (C) H$V¥©dmÀ` 
+
+      - (D) {H«$`mdmÀ` 
+
+   - **(ii)** "g§JVH$ma Ûmam _w»` Jm`H$ H$m CËgmh ~‹T>m`m J`m&' àñVwV dmŠ` H$m dmÀ` nhMm{ZE… 
+
+      - (A) H$V¥©dmÀ` 
+
+      - (B) AH$_©dmÀ` 
+
+      - (C) H$_©dmÀ` 
+
+      - (D) ^mddmÀ` 
+
+   - **(iii)** "H${d Zo lrH¥$îU Ho$ ê$n-gm¢X`© H$m dU©Z {H$`m h¡&' BgH$m H$_©dmÀ` hmoJm … 
+
+      - (A) H${d lrH¥$îU Ho$ ê$n-gm¢X`© H$m dU©Z H$aVo h¢& 
+
+      - (B) H${d Ûmam lrH¥$îU Ho$ ê$n-gm¢X`© H$m dU©Z {H$`m J`m h¡& 
+
+      - (C) H${d lrH¥$îU Ho$ ê$n-gm¢X`© H$m dU©Z H$a nmVo h¢& 
+
+      - (D) H${d Zo lrH¥$îU Ho$ ê$n-gm¢X`© H$m dU©Z {H$`m Wm& 
+
+   - **(iv)** {ZåZ{b{IV dmŠ`m| _| ^mddmÀ` H$m CXmhaU h¡/h¢ … 
+
+      1.  àYmZmMm`© Ûmam {ZX}e Omar {H$`m J`m& 
+
+      2. CgH$s XmXr go I‹S>m Zht ahm OmVm& 
+
+      3. gÁOZ AnZo go ~‹S>m| H$s godm H$aVo h¢& 
+
+      4. {Ibm‹S>r go A~ Xm¡‹S>m Zht OmVm& 
+
+{dH$ën … 
+
+- (A) 1, 3 Am¡a 4 
+
+- (B) 2 Am¡a 4 
+
+- (C) 1 Am¡a 3 
+
+- (D) 3 Am¡a 4 
+
+3/1/2 3 Page 9 
+
+P.T.O. 
+
+**==> picture [17 x 17] intentionally omitted <==**
+
+**(v)** ñV§^ 1 H$mo ñV§^ 2 go gw_o{bV H$s{OE Am¡a ghr {dH$ën H$m M`Z H$a {b{IE … 
+
+|ñV§^ 1 Hmo ñV§^ 2 go gw_o{bV Hs{OE Am¡a ghr {dHën|Hm M`Z Ha {b{IE …|
+|---|---|
+|ñV§^ 1|ñV§^ 2|
+|1. Km`b njr go C‹Sm Zht Om gHm&|I.HV¥©dmÀ`|
+|2. H{d ~mXb _| H«m§{V Hm ñda gwZVm h¡&|II.H_©dmÀ`|
+|3. Cggo dh JrV Zht Jm`m J`m&|III.^mddmÀ`|
+|{dHën …<br>(A) 1  II<br>2<br>III<br>3 I<br>(B) 1  III<br>2<br>II<br>3 I<br>(C) 1  III<br>2<br>I<br>3 II<br>(D) 1  I<br>2<br>II<br>3 III||
+
+
+
+**7.** {ZåZ{b{IV n{R>V JÚm§e na AmYm[aV ~hþ{dH$ënr àíZm| Ho$ gdm©{YH$ Cn`wº$ {dH$ën MwZH$a {b{IE … **5×1=5** 
+
+AmµOmX qhX µ\$m¡O Ho$ _wH$X_o H$m {gb{gbm Wm& g^r H$m°boOm|, ñHy$bm|, XþH$mZm| Ho$ {bE h‹S>Vmb H$m AmˆmZ Wm& Omo-Omo Zht H$a aho Wo, N>mÌm| H$m EH$ ~hþV ~‹S>m g_yh dhm± Om-OmH$a h‹S>Vmb H$adm ahm Wm& em_ H$mo AO_oa H$m nyam {dÚmWu-dJ© Mm¡n‹S> (_w»` ~mµOma H$m Mm¡amhm) na BH$Æ>m hþAm Am¡a {\$a hþB© ^mfU~mµOr& Bg ~rM {nVmOr Ho$ EH$ {Zhm`V X{H$`mZygr {_Ì Zo Ka AmH$a AÀN>r Vah {nVmOr H$s by CVmar, ""Aao! Cg _Þy H$s Vmo _V _mar JB© h¡ na ^§S>mar Or AmnH$mo Š`m hþAm? R>rH$ h¡, AmnZo b‹S>{H$`m| H$mo AmµOmXr Xr, na XoIVo Amn, OmZo H¡$go-H¡$go CbQ>o-grYo b‹S>H$m| Ho$ gmW h‹S>Vmb| H$admVr, hþ‹S>X§J _MmVr {\$a ahr h¡ dh& h_mao-AmnHo$ Kam| H$s b‹S>{H$`m| H$mo emo^m XoVm h¡ `h g~? H$moB© _mZ-_`m©Xm, BµÁµOV-Am~ê$ H$m I`mb ^r ah J`m h¡ AmnH$mo `m Zht?'' do Vmo AmJ bJmH$a Mbo JE Am¡a {nVmOr gmao {XZ ^^H$Vo aho, ""~g, A~ `hr ah J`m h¡ {H$ bmoJ Ka AmH$a Wy-Wy H$aHo$ Mbo OmE±& ~§X H$amo A~ Bg _Þy H$m Ka go ~mha {ZH$bZm&'' 
+
+Bg g~go ~oI~a _¢ amV hmoZo na Ka bm¡Q>r Vmo {nVmOr Ho$ EH$ ~ohX A§Va§J Am¡a A{^Þ {_Ì hr Zht, AO_oa Ho$ g~go à{V{ð>V Am¡a gå_m{ZV S>m°. A§~mbmb Or ~¡R>o Wo& _wPo XoIVo hr CÝhm|Zo ~‹S>r J_©Omoer go ñdmJV {H$`m& 
+
+- **(i)** ""~§X H$amo A~ Bg _Þy H$m Ka go {ZH$bZm&'' JÚm§e _| `h {ZX}e {H$go {X`m J`m h¡? 
+
+   - (A) _m± H$mo 
+
+   - (B) _Þy H$mo 
+
+   - (C) {nVmOr$H$mo 
+
+   - (D) ~hZ H$mo 
+
+3/1/2 3 
+
+Page 10 
+
+**==> picture [17 x 17] intentionally omitted <==**
+
+   - **(ii)** {nVmOr Ho$ ^^H$Zo H$m Š`m H$maU Wm? 
+
+      - (A) _Þy H$m h‹S>Vmbm{X _| ^mJ boZm& 
+
+      - (B) _Þy H$s J{V{d{Y`m| na _m± H$s Agh_{V& 
+
+      - (C) {nVmOr Ho$ {_Ì Ûmam _Þy H$s {eH$m`V& 
+
+      - (D) {nVmOr H$s ñd`§ hr _Þy go ZmamµOJr& 
+
+   - **(iii)** Cn`w©º$ JÚm§e H$s ^mfm h¡ - 
+
+      - (A) AmoOnyU© ^mfm 
+
+      - (B) gy{º$àYmZ ^mfm 
+
+      - (C) _whmdaoXma ^mfm 
+
+      - (D) g§ñH¥$V{Zð> ^mfm 
+
+   - **(iv)** h‹S>Vmb H$m AmˆmZ Š`m| {H$`m Om ahm Wm? 
+
+      - (A) AmµOmX qhX µ\$m¡O Ho$ {Ibmµ\$$ _wH$X_o Ho$ {damoY _|& 
+
+      - (B) ^maV Ho$ {bE nyU© ñdamO H$s _m±J Ho$ {bE& 
+
+      - (C) N>mÌm| Ho$ {bE ~ohVa A{YH$ma Am¡a gw{dYmAm| Ho$ {bE& 
+
+      - (D) H$m°boO àemgZ Ûmam N>mÌm| Ho$ {Ibmµ\$ H$m`©dmhr Ho$ {damoY _|&$ 
+
+   - **(v)** nyam N>mÌ-dJ© Mm¡n‹S> na Š`m| EH${ÌV hþAm? 
+
+      - (A) Am`mo{OV h‹S>Vmb Ho$ g_W©Z Ho$ {bE& 
+
+      - (B) `mVm`mV ~§X H$admZo Ho$ {bE& 
+
+      - (C) g_mamoh Ho$ Am`moOZ Ho$ {bE& 
+
+      - (D) XþH$mZo§ nwZ… ~§X H$admZo Ho$ {bE& 
+
+**8.** JÚ nmR>m| Ho$ AmYma na {ZåZ{b{IV Xmo ~hþ{dH$ënr àíZm| Ho$ gdm©{YH$ Cn`wº$ {dH$ën MwZH$a {b{IE … **2×1=2** 
+
+   - **(i)** {~pñ_„m Im± H$mer N>mo‹S>H$a Š`m| Zht OmZm MmhVo Wo? AZwn`wº$ {dH$ën H$m M`Z H$s{OE… 
+
+      - (A) CZH$s OÝ_^y{_ Am¡a H$_©^y{_ hmoZo Ho$ H$maU CÝh| H$mer go {deof bJmd Wm& 
+
+      - (B) AnZo nwaIm| Ho$ g_mZ do ^r H$mer Ho$ ~mbmOr go Ow‹S>o ahZm MmhVo Wo& 
+
+      - (C) H$mer go Xÿa OmZo na CÝh| ñd`§ na {dídmg H$_ àVrV hmoZo bJVm Wm&$ 
+
+      - (D) ~m~m {dídZmW Am¡a J§Jm _B`m Ho$ H$maU, XmoZm| hr H$mer _|, {OZgo CZH$m bJmd Wm& 
+
+3/1/2 3 
+
+P.T.O. 
+
+Page 11 
+
+**==> picture [17 x 17] intentionally omitted <==**
+
+   - **(ii)** "bIZdr A§XmO' nmR> Ho$ AmYma na {b{IE {H$ boIH$ H$mo Zdm~ gmh~ "Z`r H$hmZr' Ho$ boIH$ H$~ bJo? 
+
+      - (A) CÝh| nhbr ~ma aobJm‹S>r Ho$ {S>ã~o _| XoIH$a& 
+
+      - (B) CÝh| Iram ImZo H$s V¡`mar H$aVo hþE XoIH$a& 
+
+      - (C) CÝh| Iram gy§KH$a CgH$m agmñdmXZ H$aVo XoIH$a& 
+
+      - (D) CZHo$ {~Zm Iram ImE hr D±$Mr S>H$ma H$mo gwZH$a& 
+
+**9.** {ZåZ{b{IV n{R>V nÚm§e na AmYm[aV ~hþ{dH$ënr àíZm| Ho$ gdm©{YH$ Cn`wº$ {dH$ën MwZH$a {b{IE … **5×1=5** 
+
+ZmW g§^wYZw ^§O{Zhmam& hmoB{h Ho$C EH$ Xmg Vwåhmam&& Am`ogw H$mh H${hA {H$Z _mohr& gw{Z [agmB ~mobo _w{Z H$mohr&& godHw$ gmo Omo H$a¡ godH$mB©& A[aH$aZr H$[a H$[aA bamB©&& gwZhþ am_ Oo{h {gdYZw Vmoam& ghg~mhþ g_ gmo [anw _moam&& gmo {~bJmC {~hmB g_mOm& Z V _mao O¡hqh g~ amOm&& gw{Z _w{Z~MZ bIZ _wgwH$mZo& ~mobo nagwYa{h Ad_mZo&& ~hþ YZwhr Vmoar b[aH$mBª& H$~hþ± Z A{g [ag H$spÝh JmogmBª&& `o{h YZw na __Vm Ho${h hoVy& gw{Z [agmB H$h ^¥JwHw$bHo$Vy&& 
+
+ao Z¥n~mbH$ H$mb~g ~mobV Vmo{h Z g±^ma& YZwhr g_ {Ìnwam[aYZw {~{XV gH$b g§gma&& 
+
+- **(i)** "ZmW g§^wYZw ^§O{Zhmam& hmoB{h Ho$C EH$ Xmg Vwåhmam'- n§{º$ Ho$ g§X^© _| am_ Ho$ M[aÌ H$s H$m¡Z-gr {deofVm àH$Q> hmoVr h¡? 
+
+   - (A) g§`_ 
+
+   - (B) gabVm 
+
+   - (C) {dZ_«Vm$ 
+
+   - (D) draVm 
+
+- **(ii)** naewam_ Zo {ed YZwf Vmo‹S>Zo dmbo H$mo Š`m MoVmdZr Xr? 
+
+   - (A) ghò~mhþ Ho$ g_mZ Cgo AnZm eÌw g_PZo H$s 
+
+   - (B) amOm OZH$ H$s g^m go ~mha {ZH$b AmZo H$s 
+
+   - (C) amOm OZH$ H$s g^m _| Cgo _ma S>mbZo H$s 
+
+   - (D) CgHo$ gmW AmOrdZ eÌwVmnyU© ì`dhma H$aZo H$s 
+
+3/1/2 3 
+
+Page 12 
+
+**==> picture [17 x 17] intentionally omitted <==**
+
+   - **(iii)** "Z V _mao O¡hqh g~ amOm' - `h H$WZ naewam_ Ho$ CXmhaU h¡& 
+
+      - (A) em¡`© H$m 
+
+      - (B) Ah§H$ma H$m 
+
+      - (C) H«$moY H$m 
+
+      - (D) Jm¡ad H$m 
+
+   - **(iv)** godH$ {H$go H$hm J`m h¡? 
+
+      - (A) _Ywa dMZ ~mobZo dmbo H$mo 
+
+      - (B) godm H$aZo dmbo H$mo 
+
+      - (C) H$^r H«$moY Z H$aZo dmbo H$mo 
+
+      - (D) {dZ_«VmnyU© ì`dhma H$aZo dmbo H$mo$ 
+
+   - **(v)** naewam_ H$s YZwf na __Vm hmoZo H$m Š`m H$maU Wm? 
+
+      - (A) CZHo$ AmamÜ` {ed H$m YZwf hmoZm 
+
+      - (B) CZHo$ Jwé {dídm{_Ì H$m YZwf hmoZm 
+
+      - (C) AnZo {nVm H$m Amerdm©X g_PZm 
+
+      - (D) YZwf H$m AË`§V àmMrZ hmoZm 
+
+**10.** nmR²>`nwñVH$ _| {ZYm©[aV H${dVmAm| Ho$ AmYma na {ZåZ{b{IV Xmo àíZm| Ho$ gdm©{YH$ Cn`wº$ CÎma **2×1=2** 
+
+dmbo {dH$ën MwZH$a {b{IE … 
+
+   - **(i)** g§JVH$ma _w»` Jm`H$ H$m gmW Š`m| XoVm h¡? AZwn`wº$ {dH$ën N>m±Q>H$a {b{IE … 
+
+      - (A) CgHo$ g_mZ hr AnZr nhMmZ ~ZmZo Ho$ {bE& 
+
+      - (B) àXe©Z Ho$ Xm¡amZ CgH$m CËgmh ~‹T>mZo Ho$ {bE& 
+
+      - (C) CgHo$ àXe©Z H$mo g\$b ~ZmZo Ho$ {bE&$ 
+
+      - (D) CgHo$ ñda H$mo ghmam XoZo Ho$ {bE& 
+
+   - **(ii)** "`h X§Vw[aV _wgH$mZ' H${dVm _| ~ƒo Ûmam {nVm H$mo EH$Q>H$ XoIo OmZo H$m Š`m H$maU Wm? 
+
+      - (A) Eogo EH$Q>H$ XoIZm CgH$m ñd^md Wm& 
+
+      - (B) Cgo nbH|$ PnH$mZm Zht AmVm Wm& 
+
+      - (C) dh CÝh| nhMmZZo H$s H$mo{ee H$a ahm Wm& 
+
+      - (D) dh CZH$s Cnojm H$aZo H$m à`mg H$a ahm Wm& 
+
+3/1/2 3 
+
+P.T.O. 
+
+Page 13 
+
+**==> picture [17 x 17] intentionally omitted <==**
+
+## I§S> "~' (dU©ZmË_H$ àíZ) 
+
+**11.** JÚ nmR>m| Ho$ AmYma na {ZåZ{b{IV Mma àíZm| _| go {H$Ýht VrZ àíZm| Ho$ CÎma bJ^J 25-30 eãXm| _| {b{IE … **3×2=6** 
+
+   - (H$) d¡go Vmo nmZ dmbm H¡$ßQ>Z H$m _µOmH$ ~ZmVm Wm na§Vw hmbXma gmh~ H$mo CgH$s _¥Ë`w H$s ~mV ~VmVo hþE dh CXmg Š`m| hmo J`m? 
+
+   - (I) g§ñH¥${V Am¡a gä`Vm AbJ-AbJ H¡$go h§¡? n{R>V nmR> "g§ñH¥${V' Ho$ AmYma na ñnï> H$s{OE& 
+
+   - (J) "Zm¡~VImZo _| B~mXV' nmR> H$m boIH$ ""{~pñ_„m Im± H$m _Vb~- {~pñ_„m Im± H$s ehZmB©& ehZmB© H$m VmËn`© {~pñ_„m Im± H$m hmW&'' Eogm Š`mo§ _mZVm h¡? 
+
+   - (K) J§Jm-ñZmZ Ho$ {bE AmZo-OmZo Ho$ Xm¡amZ Mma-nm±M {XZm| VH$ ~mbJmo{~Z ^JV Cndmg Š`m| aIVo Wo? 
+
+**12.** {ZYm©[aV H${dVmAm| Ho$ AmYma na {ZåZ{b{IV Mma àíZm| _| go {H$Ýht VrZ àíZm| Ho$ CÎma bJ^J 25-30 eãXm| _| {b{IE… **3×2=6** 
+
+   - (H$) "AmË_H$Ï`' H${dVm _| H${d ñd`§ H$mo WH$m hþAm n{WH$ Š`m| H$hVm h¡? 
+
+   - (I) "CËgmh' H${dVm _| H${d Zo YmamYa {H$go Am¡a Š`m| H$hm h¡? 
+
+   - (J) Jmo{n`m| Zo CÕd Ûmam ~VmE JE `moJ H$mo ì`m{Y Š`m| H$hm h¡? gyaXmg Ho$ "nX' Ho$ AmYma na ~VmBE& 
+
+   - (K) "AQ> Zht ahr h¡' H${dVm Ho$ AmYma na "H$ht n‹S>r h¡ Ca _|, _§X-J§Y-nwîn-_mb' n§{º$ H$m Ame` ñnï> H$s{OE& 
+
+**13.** nyaH$ nmR²>`nwñVH$ Ho$ nmR>m| na AmYm[aV {ZåZ{b{IV VrZ àíZm| _| go {H$Ýht Xmo àíZm| Ho$ CÎma bJ^J 50-60 eãXm| _| {b{IE … **2×4=8** 
+
+   - (H$) "gmZm-gmZm hmW Omo{‹S>' nmR> _| bo{IH$m H$mo H$~ Am¡a Š`m| bJm {H$ V_m_ ^m¡Jmo{bH$ {d{dYVm Am¡a d¡km{ZH$ àJ{V Ho$ ~mdOyX ^maV H$s AmË_m EH$ hr h¡? 
+
+   - (I) "_mVm H$m A±Mb' nmR> _| {Og J«må` OrdZ Am¡a g§ñH¥${V H$m C„oI h¡, Cg_| dV©_mZ _| Š`m A§Va Am`m h¡? Š`m Cg A§Va H$mo Amn gH$mamË_H$ _mZVo h¢? 
+
+   - (J) "_¢ Š`m| {bIVm hÿ±' nmR> Ho$ AmYma na VH©$nyU© CÎma Xr{OE {H$ Š`m EH$ aMZmH$ma Am¡a CgH$s aMZmE± ~mhar X~md go ^r à^m{dV hmo gH$Vr h¢? AmnH$s Ñ{ï> _| do H$m¡Z-go ~mhar X~md h¢ Omo aMZmH$ma H$s aMZm H$mo à^m{dV H$aVo h¢? 
+
+3/1/2 3 
+
+Page 14 
+
+**==> picture [17 x 17] intentionally omitted <==**
+
+**14.** (H$) Amn Hw$_wX/Hw$_w{XZr h¢& ~‹S>o à`mgm| Am¡a àVrjm Ho$ ~mX AmnH$s ~hZ H$m ñWmZmÝVaU AnZo J¥h-ZJa _| hmo J`m h¡& BgHo$ {bE CÝh| ~YmB© XoVo hþE bJ^J 40 eãXm| _| EH$ g§Xoe {b{IE& **4** 
+
+AWdm 
+
+(I) "Ob g§ajU' Ho$ à{V OmJê$H$Vm ~‹T>mZo Ho$ {bE bJ^J 40 eãXm| _| EH$ AmH$f©H$ {dkmnZ V¡`ma H$s{OE& **4 15.** {ZåZ{b{IV VrZ {df`m| _| go {H$gr EH$ {df` na g§Ho$V q~XþAm| Ho$ AmYma na bJ^J 120 **6** eãXm| _| EH$ AZwÀN>oX {b{IE … (H$) gmB~a gwajm … OmJê$H$Vm hr g_mYmZ ^y{_H$m, AW©, dV©_mZ _| MMm© H$m H$maU, OmJê$H$Vm H$m à^md 
+
+   - (I) gm¡a D$Om© … gñVr Am¡a ñdÀN> D$Om© ^y{_H$m, òmoV, Xoe Ho$ {bE Š`m| Amdí`H$, bm^ 
+
+   - (J) A§Vaamï´>r` _{hbm {Xdg ^y{_H$m, CÔoí`, g§gma H$s bJ^J AmYr Am~mXr, _{hbmAm| H$s pñW{V na à^md 
+
+**16.** (H$) Amn M§Xm/M§XZ h¢& Iam~ OrdZe¡br Ho$ H$maU AmnHo$ {_Ì H$m ñdmñÏ` à^m{dV hmo ahm h¡& g§`{_V Am¡a ñdñW OrdZe¡br H$m _hÎd ~VmVo hþE bJ^J 100 eãXm| _| Cgo EH$ nÌ {b{IE& **5** 
+
+AWdm 
+
+   - (I) nw{bg Ûmam CR>mE JE {d{dY H$X_m| go eha _| AnamY H$_ Vmo hþAm h¡ na A^r Am¡a gwYma H$s Amdí`H$Vm h¡& AnZo joÌ Ho$ X¡{ZH$ g_mMma nÌ Ho$ g§nmXH$ H$mo bJ^J 100 eãXm| _| nÌ {bIH$a OZ gm_mÝ` H$m Ü`mZ Bg Amoa {XbmBE {H$ AnamY na A§Hw$e {g\©$ nw{bg **5** 
+
+   - H$s hr Zht ~pëH$ g_mO H$s gm_y{hH$ {Oå_oXmar h¡& 
+
+**17.** (H$) Amn aOZr/amOZ h¢& AmnHo$ {dÚmb` H$s n{ÌH$m "àIa' Ho$ {bE N>mÌ g§nmXH$ H$s {Z`w{º$ hmoZr h¡& Amn Cº$ nX Ho$ `mo½` h¢& Bg nX Ho$ {bE àYmZmMm`© H$mo g§~mo{YV H$a bJ^J 80 eãXm| _| AnZm EH$ g§{já ñdd¥Îm V¡`ma H$s{OE& **5** 
+
+AWdm 
+
+- (I) Amn amOZ/aOZr h¢& AnZo ~¢H$ ImVo _| ZoQ> ~¢qH$J H$s gw{dYm àmá H$aZo Ho$ {bE g§~§{YV emIm à~§YH$ H$mo bJ^J 80 eãXm| _| EH$ B©-_ob {b{IE& 
+
+- **5** 
+
+P.T.O. 
+
+3/1/2 3 
+
+Page 15 
+
+**==> picture [17 x 17] intentionally omitted <==**
+
+3/1/2 3 Page 16 
+
