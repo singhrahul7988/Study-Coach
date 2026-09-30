@@ -16,3 +16,4 @@ __pycache__/
 *.tsbuildinfo
 .edge-profile/
 .edge-mobile/
+/frontend/artifacts/

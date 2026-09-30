@@ -35,8 +35,6 @@ Upload limits for this local stage are 10 MB per file, 80 pages per PDF, and 300
 
 ## Checks and design references
 
-The screen-by-screen design review, observations, and reproducible before/after screenshots are in [`frontend/artifacts/design-review/REVIEW.md`](frontend/artifacts/design-review/REVIEW.md). The captures cover desktop and mobile with a synthetic reviewed source.
-
 From `frontend/`, run `npm run lint`, `npm run typecheck`, `npm run format:check`, and `npm run build`. With the dev server running on port 3000 and Microsoft Edge installed, `npm run check:ui` tests the guided journey, responsive routes, own-document upload, local persistence, PDF rendering, and selected interactions.
 
 The mockups in `Mockups/` are visual references. `PRD.md` defines the product, `ARCHITECTURE.md` records the intended full system, and `context.md` tracks what is currently built. `Backend/School_Master_Wiki/01_Raw_Sources/` is an untouched historical archive, not application data.

@@ -495,7 +495,6 @@ try {
     () =>
       document.querySelector(".sidebar")?.getBoundingClientRect().width === 246,
   );
-  await page.screenshot({ path: "artifacts/sidebar-expanded.png" });
   await page.getByRole("button", { name: "Collapse sidebar" }).click();
   await page.waitForFunction(
     () =>
@@ -503,7 +502,6 @@ try {
   );
   assert.ok(await page.locator(".sidebar .brand-icon").isVisible());
   assert.ok(await page.locator(".sidebar .brand-name").isHidden());
-  await page.screenshot({ path: "artifacts/sidebar-collapsed.png" });
   await page.reload();
   await page.locator(".app-shell.sidebar-is-collapsed").waitFor();
   await page.getByRole("button", { name: "Expand sidebar" }).click();
