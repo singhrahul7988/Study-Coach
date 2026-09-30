@@ -44,6 +44,8 @@ try {
 
   await page.setViewportSize({ width: 390, height: 844 });
   await page.getByRole("link", { name: "Get started" }).click();
+  await page.waitForURL("**/choose");
+  await page.getByRole("link", { name: /I.m studying on my own/ }).click();
   await page.waitForURL("**/start");
   await page.getByPlaceholder("What should we call you?").fill("Maya");
   await page.locator(".start-field select").nth(0).selectOption("11");

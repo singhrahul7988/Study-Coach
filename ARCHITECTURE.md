@@ -63,6 +63,10 @@ Use a single-viewport landing page, setup form, and short curation transition be
 
 Keep server data on the server and fetch it through typed interfaces. Keep only short-lived interaction state in the browser. Save answer drafts; queue safe offline drafts where possible and clearly show sync status. Meet WCAG 2.2 AA where applicable and test keyboard and small-screen use.
 
+### School-connected preview boundary
+
+The path-choice page routes independent students to the existing setup and school-connected users to a school sign-in design. The school management and student-context pages are static, empty-state frontend previews. They must not accept real credentials, persist school data, or imply that a roll number grants management access. Production school integration will need separate student and staff roles, school-scoped ownership checks, source/version and update timestamps on imported records, and server-side planning from verified inputs before any private record is displayed.
+
 ## 8. Security and privacy
 
 Require authentication for student records and private files. Check ownership on every read and write, including Coach retrieval. Give guardians only explicit, age-appropriate access. Encrypt traffic and stored files, define retention and deletion behavior, and keep provider credentials on the server. Review school or teacher material permissions before enabling sharing.

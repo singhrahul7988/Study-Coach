@@ -34,6 +34,8 @@ Ranjan Sir is a personal study coach for grades 6–12. It should use a student'
 - The standalone Review screen and route have been removed. The sidebar now has a smaller brand, a bottom-aligned collapse control, and tighter navigation spacing. Review as a learning activity remains planned within Study and Progress.
 - The desktop sidebar is now an inset, rounded rail with a soft shadow and no hard brand or edge dividers. Its brand center aligns with the sticky topbar center at 42 px; the logo/nav icon centers and brand/nav text starts align exactly in expanded state, and the icon/toggle centers align when collapsed. The topbar remains 84 px high for Coach, Study empty, and account viewport calculations.
 
+- Get started now opens a path choice at /choose. Independent study continues through /start. The school branch has /school/sign-in, /school/overview, and /school/student as four reviewable screens including the choice page. School sign-in accepts no credentials into a backend or browser storage; the management preview is openly reachable because it contains only empty states and no student records. This small, reversible preview uses the existing 266 px sidebar slot, 46 px navigation rows, 84 px header, blue actions, and neutral surfaces. Student and staff authorization, school data contracts, and actual scheduling are deferred until the design is reviewed.
+
 ## Repository map
 
 - `frontend/src/app/`: landing, setup, curation, five main page routes, screen styles, and the local document and Coach routes.

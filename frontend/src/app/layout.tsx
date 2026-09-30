@@ -17,6 +17,7 @@ import "./icon-accents.css";
 import "./landing-showcase.css";
 import "./curating-checklist.css";
 import "./coach-composer.css";
+import "./school.css";
 
 export const metadata: Metadata = {
   title: "Ranjan Sir | Study Coach",

@@ -75,7 +75,7 @@ export default function StartPage() {
   return (
     <main className="start-page">
       <section className="start-aside" aria-label="About your study plan">
-        <Link href="/" className="start-back">
+        <Link href="/choose" className="start-back">
           <ArrowLeft aria-hidden="true" /> Back
         </Link>
         <div className="start-brand">

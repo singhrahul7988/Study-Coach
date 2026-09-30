@@ -4,7 +4,7 @@ Ranjan Sir is being rebuilt as a personal study coach for students in grades 6â€
 
 ## Current status
 
-Open the bright, single-viewport landing page and choose Get started. Setup asks for a name, class, board, optional JEE/NEET/other entrance goal, and a gentle, steady, or focused pace. A 3-4 second curation transition prepares a pace-limited starting plan, then Coach opens as a fresh conversation. Students can type or use voice input with a Deepgram key in Settings (or browser speech recognition where supported), inspect the available context, choose tasks in Coach's reply cards, and use Create study plan to open a timed chat-based Study room.
+Open the bright, single-viewport landing page and choose Get started, then choose independent study or the school-connected preview. Independent setup asks for a name, class, board, optional JEE/NEET/other entrance goal, and a gentle, steady, or focused pace. A 3-4 second curation transition prepares a pace-limited starting plan, then Coach opens as a fresh conversation. Students can type or use voice input with a Deepgram key in Settings (or browser speech recognition where supported), inspect the available context, choose tasks in Coach's reply cards, and use Create study plan to open a timed chat-based Study room.
 
 The profile button opens dedicated My profile and Settings pages plus Sign out. My profile has editable study details, an optional personal goal and photo, activity summaries from completed Study room tasks, and evidence-based badges. Profile photos and badge activity are kept in this tab for the demo. Settings manages Gemini and Deepgram keys. Sign out clears the current tab profile, plan, conversation, badge activity, email, and API keys, then returns to the landing page. Uploaded Library files remain saved on this device.
 
@@ -23,7 +23,7 @@ if (!(Test-Path .env.local)) { Copy-Item .env.example .env.local }
 npm run dev
 ```
 
-Open <http://localhost:3000>. The demo journey uses `/`, `/start`, `/curating`, `/coach`, and `/study`. The main navigation also includes `/today`, `/library`, and `/progress`. The former `/review` route has been removed.
+Open <http://localhost:3000>. The demo journey uses `/`, `/choose`, `/start`, `/curating`, `/coach`, and `/study`. The main navigation also includes `/today`, `/library`, and `/progress`. The school design preview uses `/school/sign-in`, `/school/overview`, and `/school/student`. School sign-in does not send or save credentials, and the management screens contain no school records. The former `/review` route has been removed.
 
 To enable Gemini document analysis in the local demo, enter a key from [Google AI Studio](https://aistudio.google.com/app/apikey) in Settings. You can also set GEMINI_API_KEY in frontend/.env.local and restart the dev server. `GEMINI_MODEL` defaults to `gemini-3.8-flash` and can be changed there. Profile-entered keys stay in this browser tab and are sent to the same-origin local analysis route when requested. For deployed use, keep the key server-side and never expose or commit it. Without a key, extraction and PDF viewing still work; summaries and questions are unavailable. A live Gemini request cannot be verified without your key. Add a Deepgram key in Settings to transcribe recorded Coach questions; recordings are sent through the local voice route with model-improvement opt-out. Both local provider routes are disabled in production pending sign-in and abuse controls.
 

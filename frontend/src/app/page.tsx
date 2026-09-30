@@ -45,7 +45,7 @@ export default function LandingPage() {
             turn your question into a focused study room using your own
             material.
           </p>
-          <Link href="/start" className="landing-cta">
+          <Link href="/choose" className="landing-cta">
             Get started <ArrowRight aria-hidden="true" />
           </Link>
         </div>

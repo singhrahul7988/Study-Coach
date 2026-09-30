@@ -28,8 +28,8 @@ The coach must remember the student's academic context across sessions. Its advi
 
 ## 4. Core journey
 
-1. Open the bright, single-viewport landing screen and choose Get started.
-2. Enter name, class, board, optional entrance-exam goal, and a gentle, steady, or focused pace. A production profile later adds timetable, assessments, available time, and sleep window.
+1. Open the bright, single-viewport landing screen, choose Get started, then choose independent study or the school-connected path.
+2. For independent study, enter name, class, board, optional entrance-exam goal, and a gentle, steady, or focused pace. A production profile later adds timetable, assessments, available time, and sleep window.
 3. See a short curation transition while a deterministic starting plan is prepared from the setup and reviewed Library material.
 4. Enter a fresh Coach conversation. Ask by text or voice input with an optional tab-scoped Deepgram key, falling back to browser recognition where supported. Coach uses available setup and reviewed sources, shows the context it used, and states when a checked academic answer is unavailable.
 5. Inspect the suggested task cards in Coach's reply, tick the ones to keep, and create a study plan that opens the Study room.
@@ -38,7 +38,7 @@ The coach must remember the student's academic context across sessions. Its advi
 
 ## 5. Navigation and screens
 
-The landing, setup, and curation screens precede the main navigation. The profile control opens a menu for My profile, Settings, and Sign out. My profile is a dedicated page for editable student details and evidence-based task badges; Settings is a dedicated page for optional demo provider keys. Opening the menu keeps the student on the current screen. The main navigation is Coach, Today, Study, Library, and Progress. Mistake retries belong inside Study; there is no standalone Review screen. Use the blue, white, black, and grey visual direction in Mockups. Those images are design references, not a substitute for functional requirements or accessible implementation.
+The landing and path-choice screens precede independent setup and curation. The profile control opens a menu for My profile, Settings, and Sign out. My profile is a dedicated page for editable student details and evidence-based task badges; Settings is a dedicated page for optional demo provider keys. Opening the menu keeps the student on the current screen. The main navigation is Coach, Today, Study, Library, and Progress. Mistake retries belong inside Study; there is no standalone Review screen. Use the blue, white, black, and grey visual direction in Mockups. Those images are design references, not a substitute for functional requirements or accessible implementation.
 
 | Screen | Purpose | Current reference |
 | --- | --- | --- |
@@ -65,6 +65,12 @@ The original six images remain visual references, but the Review image is retire
 - All dates, scores, progress figures, and source labels in the images are sample content. Replace them with saved, source-backed student data.
 
 The design must work on phone, tablet, and desktop. A separate mobile design pass is required.
+
+### School-connected pathway design preview
+
+After Get started, the student chooses independent study or school-connected study. The school branch currently contains a school ID/roll-number and password sign-in design, a management overview, and a student-context view. These screens are a reviewable frontend preview; no school identity, student data, authentication, or management permissions are connected yet. The management preview is reachable without authentication only because it contains no private records.
+
+A future connected school workspace must associate each assessment result with its date, class, subject, assessed topics, and source; accept daily attendance and classwork updates; summarize weekly changes; and use permitted student context to shape a realistic plan. Student and staff roles require separate authorization. Every record must show its source and update time, and students need a way to inspect and correct the context used for recommendations. Planning and sleep protections remain deterministic server rules.
 
 ## 6. Functional requirements
 
